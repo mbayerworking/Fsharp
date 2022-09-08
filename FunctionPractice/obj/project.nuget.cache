@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LbbZfCFBjyUp+rDLrLOwL1NcCeQFltCIaqAS1GPRJIDxQcqDAIqJjxRBy1CSAO7XxmuWOZ9/HTzaCnDlPClKAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12537\\source\\repos\\f#\\FunctionPractice\\FunctionPractice.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12537\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

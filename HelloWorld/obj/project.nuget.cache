@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ngI8m2XT+tGN9vNK3onQOOv3AyojF3YQ4WKImtdI4CaBUI2I6u/iEPWhq6zuL5dJAoCxdn0c5cVBn7araei77A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12537\\source\\repos\\f#\\HelloWorld\\HelloWorld.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12537\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
